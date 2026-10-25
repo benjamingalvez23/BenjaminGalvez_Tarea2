@@ -53,10 +53,6 @@ La primera vez Unity tarda unos minutos preparando el proyecto. No hay que insta
 
 Está a la izquierda y cada barra tiene una explicación corta. Con él puedo elegir el tipo de mundo, crear uno nuevo, cambiar las opciones de cada técnica, ocultar capas (el botón **Solo** deja una sola a la vista) y ver estadísticas del mundo generado.
 
-## Uso de IA generativa
-
-Usé Claude (Anthropic) como ayuda para guiarme paso a paso, escribir y corregir el código de Unity y diseñar el menú. Yo elegí el estilo y las técnicas, armé el proyecto, probé todo, ajusté las opciones y analicé los resultados.
-
 ## Autor
 
 Benjamín Gálvez, 2026.
