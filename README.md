@@ -7,12 +7,6 @@ Es un programa hecho en Unity que crea mundos de fantasía solo, sin que yo teng
 
 - **Juego en Itch.io:** [agregar link]
 
-## Capturas
-
-| Reino de exploración | Tierras de mazmorras |
-|---|---|
-| ![Reino](capturas/reino.png) | ![Mazmorras](capturas/mazmorras.png) |
-
 ## Qué hace
 
 Usé tres técnicas de generación procedural, cada una para una parte del mundo:
