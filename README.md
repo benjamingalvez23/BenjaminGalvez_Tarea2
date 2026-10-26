@@ -5,7 +5,7 @@ Proyecto de la **Tarea 2 de IA y PCG para videojuegos** (profesor Nicolás Romer
 
 Es un programa hecho en Unity que crea mundos de fantasía solo, sin que yo tenga que dibujarlos. Cada vez que lo uso sale un mundo distinto, con terreno, árboles, cuevas y criaturas.
 
-- **Juego en Itch.io:** [agregar link]
+- **Juego en Itch.io:** https://benja12.itch.io/mi-rpg-de-fantasa
 
 ## Qué hace
 
